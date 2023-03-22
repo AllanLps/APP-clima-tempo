@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+
+    <title>App de clima</title>
+
+    <link rel="stylesheet" href="assets/CSS/reset.css" />
+    <link rel="stylesheet" href="assets/CSS/styles.css" />
+    <script
+      src="https://kit.fontawesome.com/10fd05a729.js"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+  <body>
+    <div class="container">
+     
+      <div class="search-box">
+        <i class="fa-sharp fa-solid fa-location-dot"></i>
+        <input type="text" placeholder="Escolha um local" />
+        <button class="fa-sharp fa-solid fa-magnifying-glass"></button>
+      </div>
+
+      <div class="not-found">
+        <img
+          src="assets/images/404.svg"
+          alt="Imagem de erro 404 informando que não encontrou o resultado esperado"
+          class="img-404"  
+        />
+        <p>Oops! Localização inválida, viajante! :/</p>
+      </div>
+
+      <div class="weather-box">
+        <img src=""/>
+        <p class="temperature"></p>
+        <p class="description"></p>
+      </div>
+
+      <div class="weather-details">
+        <div class="humidity">
+          <i class="fa-sharp fa-solid fa-water"></i>
+          <div class="text">
+            <span></span>
+            <p>Umidade</p>
+          </div>
+        </div>
+
+        <div class="wind">
+          <div class="humidity">
+            <i class="fa-sharp fa-solid fa-wind"></i>
+            <div class="text">
+              <span></span>
+              <p>Vento</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      
+    </div>
+
+    <script src="assets/JS/index.js"></script>
+  </body>
+</html>
