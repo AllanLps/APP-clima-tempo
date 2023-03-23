@@ -2,6 +2,8 @@
 
 # Projeto 01 - Clima tempo usando API
 
+Projeto publicado -> https://allanlps.github.io/APP-clima-tempo/
+
 Ideia do projeto 01!
 
 A ideia do projeto é criar um site de pesquisa simples, focando mais no código JS, o site tem que ser responsivo e ter como funcionalidade criar uma requisição à API do OpenWeatherMap para obter informações meteorológicas sobre uma cidade. O projeto tem que ser responsivo e funcional! 
@@ -14,17 +16,22 @@ Abaixo imagens para explicar melhor!
 
 - Pesquisa
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/52bb7c73-e03a-4e0a-9e7d-a9fb3db18ce1/Untitled.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/100639279/227220655-2198e35e-6e80-4ebe-a48b-bdce18a18eab.png"/>
+</p>
+
 
 - Após pesquisar
 
 <p align="center">
-  <img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f814cce4-48c6-48a5-86b0-789a654cadf1/Untitled.png"/>
+  <img src="https://user-images.githubusercontent.com/100639279/227220928-709ada40-df74-4ade-90cc-1e8dbca07820.png"/>
 </p>
 
 - Caso pesquise errado
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/060d8951-3021-44ef-a59b-1bc656b5e57d/Untitled.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/100639279/227221150-4e8b980e-76ed-4188-9bf1-1ebe3a259f09.png"/>
+</p>
 
 ## O que o código JS deve fazer?
 
