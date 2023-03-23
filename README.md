@@ -10,7 +10,7 @@ A ideia do projeto é criar um site de pesquisa simples, focando mais no código
 
 ## O que ele deve ser capaz de fazer?
 
-Bom, basicamente ele deve ter um input para realizar a pesquisa das cidades, caso o usuário escreva uma cidade ou país que não exista, uma tela de erro deve ser apresentada! 
+Basicamente ele deve ter um input para realizar a pesquisa das cidades e realizar a consulta do clima dessa cidade, o projeto deve ser responsivo e ter como enfase a lógica de programação e não o HTML e o CSS (Opicional), caso o usuário escreva uma cidade ou país que não exista, uma tela de erro deve ser apresentada! 
 
 Abaixo imagens para explicar melhor!
 
@@ -44,6 +44,12 @@ O código começa selecionando elementos HTML relevantes para o aplicativo usand
 Se a cidade não for encontrada (o que é indicado pelo status de resposta "404" da API), o código oculta os elementos da página HTML que mostram informações meteorológicas e exibe uma mensagem de erro no lugar. Caso contrário, o código preenche as informações da cidade em elementos HTML relevantes, como a imagem de tempo, temperatura, descrição do tempo, umidade e velocidade do vento.
 
 Finalmente, o código adiciona classes CSS para animar a exibição desses elementos e altera a altura do contêiner HTML para acomodar as informações do tempo.
+
+## links para usar no projeto
+
+Icones - https://fontawesome.com/icons
+API - https://openweathermap.org/api
+
 
 ## Conclusão
 
