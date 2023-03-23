@@ -37,7 +37,7 @@ Abaixo imagens para explicar melhor!
 
 Ele deve ser responsável por fazer uma solicitação à API do OpenWeatherMap para obter informações meteorológicas sobre uma cidade, exibir essas informações na página HTML e também lidar com erros quando uma cidade não é encontrada.
 
-E para te dar uma luz! 💡
+### E para te dar uma luz! 💡
 
 O código começa selecionando elementos HTML relevantes para o aplicativo usando o método **`document.querySelector()`** e adicionando um ouvinte de eventos ao botão de pesquisa. Quando o botão é clicado, o código obtém o valor do input de pesquisa, verifica se o valor é uma string vazia e, em seguida, faz uma solicitação à API usando a função **`fetch()`**.
 
