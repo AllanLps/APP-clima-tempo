@@ -1,19 +1,18 @@
-# APP-clima-tempo ☀
+# Projeto 01 - APP Clima Tempo ☀️
 
-# Projeto 01 - Clima tempo usando API
+Projeto publicado: https://allanlps.github.io/APP-clima-tempo/
 
-Projeto publicado -> https://allanlps.github.io/APP-clima-tempo/
+## Descrição
 
-Ideia do projeto 01!
+O projeto tem como ideia criar um site de pesquisa simples, focando mais no código JS, com a funcionalidade de criar uma requisição à API do OpenWeatherMap para obter informações meteorológicas sobre uma cidade. O projeto tem que ser responsivo e funcional!
 
-A ideia do projeto é criar um site de pesquisa simples, focando mais no código JS, o site tem que ser responsivo e ter como funcionalidade criar uma requisição à API do OpenWeatherMap para obter informações meteorológicas sobre uma cidade. O projeto tem que ser responsivo e funcional! 
+O objetivo é criar um input para realizar a pesquisa das cidades e consultar o clima da cidade. Caso o usuário escreva uma cidade ou país que não exista, uma tela de erro deve ser apresentada.
 
-## O que ele deve ser capaz de fazer?
+## Funcionalidades
 
-Basicamente ele deve ter um input para realizar a pesquisa das cidades e realizar a consulta do clima dessa cidade, o projeto deve ser responsivo e ter como enfase a lógica de programação e não o HTML e o CSS (Opicional), caso o usuário escreva uma cidade ou país que não exista, uma tela de erro deve ser apresentada! 
-
-Abaixo imagens para explicar melhor!
-
+- Input para pesquisa de cidades
+- Consulta de informações meteorológicas da cidade pesquisada
+- Responsividade
 - Pesquisa
 
 <p align="center">
@@ -45,12 +44,12 @@ Se a cidade não for encontrada (o que é indicado pelo status de resposta "404"
 
 Finalmente, o código adiciona classes CSS para animar a exibição desses elementos e altera a altura do contêiner HTML para acomodar as informações do tempo.
 
-## links para usar no projeto
+## links úteis! 🔗
 
-Icones - https://fontawesome.com/icons
-API - https://openweathermap.org/api
+* Ícones: https://fontawesome.com/icons
+* API do OpenWeatherMap: https://openweathermap.org/api
 
 
 ## Conclusão
 
-Bom, é basicamente isso! Espero que você possa usar o projeto para desenvolvimento pessoal e aprendizado, e não esquece de compartilhar teu projeto e me marcar (caso queira) no linkedin. Vamos nessa!!!!
+Espero que este projeto possa ajudar você a praticar e aprender mais sobre programação! Compartilhe seu projeto e me marque no LinkedIn se quiser. Vamos lá! 💪🏼
